@@ -1,0 +1,11 @@
+/home/elliott/Documents/Projects/C#/GameOfLife/bin/Debug/netcoreapp3.0/GameOfLife
+/home/elliott/Documents/Projects/C#/GameOfLife/bin/Debug/netcoreapp3.0/GameOfLife.deps.json
+/home/elliott/Documents/Projects/C#/GameOfLife/bin/Debug/netcoreapp3.0/GameOfLife.runtimeconfig.json
+/home/elliott/Documents/Projects/C#/GameOfLife/bin/Debug/netcoreapp3.0/GameOfLife.runtimeconfig.dev.json
+/home/elliott/Documents/Projects/C#/GameOfLife/bin/Debug/netcoreapp3.0/GameOfLife.dll
+/home/elliott/Documents/Projects/C#/GameOfLife/bin/Debug/netcoreapp3.0/GameOfLife.pdb
+/home/elliott/Documents/Projects/C#/GameOfLife/obj/Debug/netcoreapp3.0/GameOfLife.csprojAssemblyReference.cache
+/home/elliott/Documents/Projects/C#/GameOfLife/obj/Debug/netcoreapp3.0/GameOfLife.AssemblyInfoInputs.cache
+/home/elliott/Documents/Projects/C#/GameOfLife/obj/Debug/netcoreapp3.0/GameOfLife.AssemblyInfo.cs
+/home/elliott/Documents/Projects/C#/GameOfLife/obj/Debug/netcoreapp3.0/GameOfLife.dll
+/home/elliott/Documents/Projects/C#/GameOfLife/obj/Debug/netcoreapp3.0/GameOfLife.pdb
